@@ -1,0 +1,10 @@
+| Purpose        | Color       | Hex Code  |
+| -------------- | ----------- | --------- |
+| Primary        | Indigo      | `#3F51B5` |
+| Secondary      | Cyan        | `#00BCD4` |
+| Accent         | Lime Green  | `#CDDC39` |
+| Background     | Light Gray  | `#ECEFF1` |
+| Text Primary   | Jet Black   | `#212121` |
+| Text Secondary | Medium Gray | `#757575` |
+| Error          | Tomato Red  | `#E53935` |
+| Success        | Green Apple | `#8BC34A` |
