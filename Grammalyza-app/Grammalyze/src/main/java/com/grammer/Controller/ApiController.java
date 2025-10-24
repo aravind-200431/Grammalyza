@@ -16,7 +16,8 @@ import jakarta.annotation.PostConstruct;
 
 @RestController
 @RequestMapping("/api/grammer")
-public class ApiController {
+public class ApiController
+{
 	
 	@Autowired
 	ApiServices service;
